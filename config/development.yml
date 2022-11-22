@@ -3,6 +3,7 @@ db:
   type: 'postgres'
   port: 5432
   username: 'postgres'
+  database: 'truthy'
   password: 'root'
   synchronize: false
 
